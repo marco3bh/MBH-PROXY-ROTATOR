@@ -6,8 +6,3 @@ not completed yet updating it when its finished
 
 fully in python
 
-
-still making some adjustments
-
-releasing full version soon
- 
